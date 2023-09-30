@@ -1,27 +1,27 @@
-# Visualización y Transformación de Datos de Delitos en México
+# Visualization and Transformation of Crime Data in Mexico
 
-Este notebook contiene el análisis, la transformación y la visualización de datos relacionados con las tasas de diferentes delitos en los estados de México. Se enfoca en la representación de los datos a través de mapas coloreados según la tasa de delitos en diferentes meses.
+This notebook contains the analysis, transformation, and visualization of data related to the rates of different crimes in the states of Mexico. It focuses on representing the data through color-coded maps based on crime rates in different months.
 
-## Estructura de Directorios
+## Directory Structure
 
-- `notebooks/`: Contiene el notebook de análisis y visualización.
-- `data/`: Contiene los datos utilizados en el análisis.
+- `notebooks/`: Contains the analysis and visualization notebook.
+- `data/`: Contains the data used in the analysis.
 
-## Cómo Usar
+## How to Use
 
-1. Clonar este repositorio.
-2. Navegar a la carpeta `notebooks/`.
-3. Abrir el notebook `1.0-transformacion-visualizacion.ipynb` en Jupyter Notebook o cualquier otro entorno compatible con IPython.
-4. Asegúrate de tener los datos necesarios en la carpeta `data/`. Puedes descargar los datos desde [esta liga](https://www.gob.mx/sesnsp/acciones-y-programas/datos-abiertos-de-incidencia-delictiva?state=published).
-5. Ejecutar las celdas del notebook para ver los análisis y visualizaciones.
+1. Clone this repository.
+2. Navigate to the `notebooks/` folder.
+3. Open the notebook `1.0-transformacion-visualizacion.ipynb` in Jupyter Notebook or any other IPython-compatible environment.
+4. Make sure to have the necessary data in the `data/` folder. You can download the data from [this link](https://www.gob.mx/sesnsp/acciones-y-programas/datos-abiertos-de-incidencia-delictiva?state=published).
+5. Run the cells in the notebook to see the analyses and visualizations.
 
-## Dependencias
+## Dependencies
 
 - Python 3.x
 - Pandas
 - GeoPandas
 - Matplotlib
 
-## Contribuciones
+## Contributions
 
-Si tienes alguna sugerencia, pregunta o mejora, no dudes en abrir un Issue o Pull Request.
+If you have any suggestions, questions, or improvements, feel free to open an Issue or Pull Request.
